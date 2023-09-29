@@ -1,0 +1,9 @@
+obj/*.o
+include/*.a
+.vscode
+bin/console
+bin/test_comp
+bin/test_term
+bin/test_bigchars
+bin/test_readkey
+
